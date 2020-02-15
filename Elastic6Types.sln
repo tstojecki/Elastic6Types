@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elastic6Types", "Elastic6Types.csproj", "{166CC1B1-6D98-478C-BE87-3A57C475C58E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166CC1B1-6D98-478C-BE87-3A57C475C58E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166CC1B1-6D98-478C-BE87-3A57C475C58E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166CC1B1-6D98-478C-BE87-3A57C475C58E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166CC1B1-6D98-478C-BE87-3A57C475C58E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D13E035C-E217-404C-B573-EE3E6B4DB5F2}
+	EndGlobalSection
+EndGlobal
